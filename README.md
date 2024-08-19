@@ -30,4 +30,4 @@ yarn
 yarn add cbsama-ui
 ```
 
-[文档](https://aledenn.github.io/cbsama-ui/)
+[文档](https://chunbin1.github.io/cbsama-ui/)
